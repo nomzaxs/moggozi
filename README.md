@@ -20,7 +20,7 @@
             <img src="https://avatars.githubusercontent.com/junghojin" width="140px" /> <br><br> 🙄 정호진 <br>(Back-End) </a> <br></td>
     </tr>
     <tr>
-        <td align="center">UI/UX<br/>React
+        <td align="center">Socket.io<br/>UI/UX<br/>React
         <td align="center">UI/UX<br/>React
         <td align="center">UI/UX<br/>React
         <td align="center">CI/CD<br/>Spring Boot<br/>REST API
