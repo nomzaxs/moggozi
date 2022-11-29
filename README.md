@@ -1,14 +1,12 @@
-[TOC]
-
 # 🎉moggozi
 
 ![readme_main](https://user-images.githubusercontent.com/81341784/203911647-78e7db4c-7257-4493-9510-2ba462ea0911.gif)
 
 ## :family: 프로젝트 팀원 소개
 
-| [박세호]()  | [임윤혁]()  | 허재영      | [박상현]() | [조성민](https://github.com/WeedInGist) | 정호진     |
+| [박세호](https://github.com/seho27060)  | [임윤혁](https://github.com/yunhlim)  | [허재영](https://github.com/DasisCore)      | [박상현](https://github.com/nomzaxs) | [조성민](https://github.com/WeedInGist) | [정호진](https://github.com/junghojin)     |
 |:--------:|:--------:|:--------:|:-------:|:------------------------------------:|:-------:|
-| Frontend | Frontend | Frontend | Backend | Backend                              | Backend |
+| Frontend | Frontend | Frontend | Backend | Backend | Backend |
 
 <br />
 
