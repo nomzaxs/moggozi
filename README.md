@@ -4,9 +4,30 @@
 
 ## :family: 프로젝트 팀원 소개
 
-| [박세호](https://github.com/seho27060)  | [임윤혁](https://github.com/yunhlim)  | [허재영](https://github.com/DasisCore)      | [박상현](https://github.com/nomzaxs) | [조성민](https://github.com/WeedInGist) | [정호진](https://github.com/junghojin)     |
-|:--------:|:--------:|:--------:|:-------:|:------------------------------------:|:-------:|
-| Frontend | Frontend | Frontend | Backend | Backend | Backend |
+<table>
+    <tr>
+        <td height="140px" align="center"> <a href="https://github.com/seho27060">
+            <img src="https://avatars.githubusercontent.com/seho27060" width="140px" /> <br><br> 🙂 박세호 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/yunhlim">
+            <img src="https://avatars.githubusercontent.com/yunhlim" width="140px" /> <br><br> 🙂 임윤혁 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/DasisCore">
+            <img src="https://avatars.githubusercontent.com/DasisCore" width="140px" /> <br><br> 😆 허재영 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/nomzaxs">
+            <img src="https://avatars.githubusercontent.com/nomzaxs" width="140px" /> <br><br> 😁 박상현 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/WeedInGist">
+            <img src="https://avatars.githubusercontent.com/WeedInGist" width="140px" /> <br><br> 🙄 조성민 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/junghojin">
+            <img src="https://avatars.githubusercontent.com/junghojin" width="140px" /> <br><br> 🙄 정호진 <br>(Back-End) </a> <br></td>
+    </tr>
+    <tr>
+        <td align="center">UI/UX<br/>React
+        <td align="center">UI/UX<br/>React
+        <td align="center">UI/UX<br/>React
+        <td align="center">Spring Boot<br/>CI/CD<br/>REST API
+        <td align="center">Spring Boot<br/>REST API
+        <td align="center">Srping Boot<br/>Spring Security<br/>REST API
+    </tr>
+</table>
 
 <br />
 
