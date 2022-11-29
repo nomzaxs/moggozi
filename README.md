@@ -24,7 +24,7 @@
         <td align="center">UI/UX<br/>React
         <td align="center">UI/UX<br/>React
         <td align="center">CI/CD<br/>Spring Boot<br/>REST API
-        <td align="center">Spring Boot<br/>REST API
+        <td align="center">Socket.io<br/>Spring Boot<br/>REST API
         <td align="center">Srping Boot<br/>Spring Security<br/>REST API
     </tr>
 </table>
